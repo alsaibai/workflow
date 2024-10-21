@@ -3,8 +3,6 @@
 
 ![CI/CD POC Workflow](https://github.com/alsaibai/workflow/actions/workflows/android.yml/badge.svg)
 
-[![View Workflow](https://github.com/alsaibai/workflow/actions/workflows/android.yml)](https://github.com/alsaibai/workflow/actions/workflows/android.yml)
-
 ## Overview
 
 This repository demonstrates a **Proof of Concept (POC)** for a CI/CD workflow tailored for Android applications. The workflow is designed to streamline the build, test, and deployment processes, ensuring efficient development cycles.
